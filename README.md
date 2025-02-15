@@ -3,7 +3,7 @@ I'm a Web Engineer and Engineering Manager based in Osaka, Japan.
 
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=dsk52&theme=shadow_blue&layout=compact&cache_seconds=21600" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsk52&theme=shadow_blue&layout=compact&cache_seconds=21600" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsk52&theme=shadow_blue&layout=compact&hide=html,css&cache_seconds=21600" />
 </div>
 
 
